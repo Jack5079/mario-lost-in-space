@@ -28,7 +28,7 @@
           "config": {
             "name": "mario_lost_in_space",
             "setupIcon": "./icon.ico",
-            "iconUrl": "./icon.ico"
+            "iconUrl": "https://github.com/Jack5079/mario-lost-in-space/raw/master/icon.ico"
           }
         }
       ]
